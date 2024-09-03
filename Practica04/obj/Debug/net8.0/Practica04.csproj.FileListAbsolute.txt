@@ -1,0 +1,14 @@
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica04\bin\Debug\net8.0\Practica04.exe
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica04\bin\Debug\net8.0\Practica04.deps.json
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica04\bin\Debug\net8.0\Practica04.runtimeconfig.json
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica04\bin\Debug\net8.0\Practica04.dll
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica04\bin\Debug\net8.0\Practica04.pdb
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica04\obj\Debug\net8.0\Practica04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica04\obj\Debug\net8.0\Practica04.AssemblyInfoInputs.cache
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica04\obj\Debug\net8.0\Practica04.AssemblyInfo.cs
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica04\obj\Debug\net8.0\Practica04.csproj.CoreCompileInputs.cache
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica04\obj\Debug\net8.0\Practica04.dll
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica04\obj\Debug\net8.0\refint\Practica04.dll
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica04\obj\Debug\net8.0\Practica04.pdb
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica04\obj\Debug\net8.0\Practica04.genruntimeconfig.cache
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica04\obj\Debug\net8.0\ref\Practica04.dll
