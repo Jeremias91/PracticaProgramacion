@@ -1,0 +1,14 @@
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica07\bin\Debug\net8.0\Practica07.exe
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica07\bin\Debug\net8.0\Practica07.deps.json
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica07\bin\Debug\net8.0\Practica07.runtimeconfig.json
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica07\bin\Debug\net8.0\Practica07.dll
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica07\bin\Debug\net8.0\Practica07.pdb
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica07\obj\Debug\net8.0\Practica07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica07\obj\Debug\net8.0\Practica07.AssemblyInfoInputs.cache
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica07\obj\Debug\net8.0\Practica07.AssemblyInfo.cs
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica07\obj\Debug\net8.0\Practica07.csproj.CoreCompileInputs.cache
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica07\obj\Debug\net8.0\Practica07.dll
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica07\obj\Debug\net8.0\refint\Practica07.dll
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica07\obj\Debug\net8.0\Practica07.pdb
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica07\obj\Debug\net8.0\Practica07.genruntimeconfig.cache
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica07\obj\Debug\net8.0\ref\Practica07.dll

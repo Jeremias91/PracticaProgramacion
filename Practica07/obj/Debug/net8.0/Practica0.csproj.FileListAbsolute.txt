@@ -1,0 +1,4 @@
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica07\obj\Debug\net8.0\Practica0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica07\obj\Debug\net8.0\Practica0.AssemblyInfoInputs.cache
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica07\obj\Debug\net8.0\Practica0.AssemblyInfo.cs
+C:\Users\Onírico\Proyectos de Narciso\Practica\Practica07\obj\Debug\net8.0\Practica0.csproj.CoreCompileInputs.cache
